@@ -1,6 +1,6 @@
 // script.js
 
-// Fungsi untuk memuat data reseller dari listscammer.json
+// Fungsi untuk memuat data scammer dari listscammer.json
 async function loadResellerData() {
     try {
         const response = await fetch('./listscammer.json');
@@ -66,7 +66,7 @@ function showNotInDatabasePopup() {
         <div>
             <p>NOMBOR TERSEBUT TIADA DIDALAM PANGKALAN DATA <strong>MalaysiaYouthTrustedSeller</strong></p>
             <p>JIKA TIADA SILA BERHATI-HATI SEMASA JUAL BELI YA</p>
-            <button><a href="https://chat.whatsapp.com/FHpeFtSKrqnEvf1F8F9eIZ" style="color: #ffbf00"; text-decoration:none">SELLER TRUSTED MALAYSIA CHECKER</a></button>
+            <button><a href="https://chat.whatsapp.com/G34QmOJkPWgFz5Uk1Jwbqb" style="color: #ffbf00"; text-decoration:none">INFO SCAMMER MYTS</a></button>
         
     `;
 
